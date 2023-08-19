@@ -1,5 +1,0 @@
-{{#user}}
-Name: Harsh Bansal
-Skills: Python, Django, Mongodb, Postgresql
-Email: harshhb6@gmail.com
-{{/user}}
